@@ -1,12 +1,12 @@
 # Sivram Sahu
 
-**Founder/operator building Confer AI Solutions as an AI-first company.**
+**AI practitioner and employee helping build Confer AI Solutions as an AI-first company.**
 
 I build practical AI systems that move work from "someone should remember to do this" to "a trusted agent owns the loop." My current focus is agentic operations: reliable AI teammates that can take delegated work, remember commitments, follow up over time, and escalate cleanly when human judgment is needed.
 
-## What I'm building
+## What I'm helping build
 
-**Confer AI Solutions** is my work toward an AI-first company: not a business that occasionally uses AI, but one where agents become part of the operating system for daily execution.
+At **Confer AI Solutions**, I am helping build an AI-first company: not a team that occasionally uses AI, but one where agents become part of the operating system for daily execution.
 
 The thesis is simple:
 
@@ -23,13 +23,21 @@ The thesis is simple:
 - **Internal automation** — reducing repetitive back-office work so teams can spend more time on judgment and relationships.
 - **Applied AI products** — document understanding, healthcare text analytics, anomaly detection, and decision-support tools.
 
-## Selected public projects
+## Projects I've built
 
-- [goodnotes-mcp](https://github.com/withsivram/goodnotes-mcp) — an MCP server that connects GoodNotes handwritten notebooks to AI assistants through local structured data.
-- [mortgage-loan-triage](https://github.com/withsivram/mortgage-loan-triage) — AI-powered mortgage document classification, validation, missing-document detection, and urgency triage.
-- [hc-tap](https://github.com/withsivram/hc-tap) — healthcare text analytics work for extracting medical entities from de-identified clinical notes and surfacing evaluation KPIs.
-- [DATA612-Anomaly-Detection](https://github.com/withsivram/DATA612-Anomaly-Detection) — industrial anomaly detection using diffusion-style reconstruction on MVTec AD.
-- [Portfolio-Management-System](https://github.com/withsivram/Portfolio-Management-System) — an ML-assisted portfolio analysis and market prediction prototype.
+Private/internal work is summarized at a high level and not linked. Public projects link directly to the repository.
+
+| Project | Repo / visibility | Summary |
+|---|---|---|
+| Confer AI Solutions AI-first operations work | Private/internal, not linked | Helping build agentic workflows for task delegation, recurring reminders, follow-up, operational visibility, and human-reviewed automation. |
+| GoodNotes MCP Server | [Public repo](https://github.com/withsivram/goodnotes-mcp) | MCP server that reads GoodNotes handwritten notebooks from local SQLite data and exposes notebook/page search tools for AI assistants. |
+| Mortgage Loan File Triage | [Public repo](https://github.com/withsivram/mortgage-loan-triage) | AI-powered mortgage document processing system for classification, missing-document detection, inconsistency checks, and urgency prioritization. |
+| HC-TAP: Healthcare Text Analytics Pipeline | [Public repo](https://github.com/withsivram/hc-tap) | Pipeline for extracting medical entities from de-identified clinical notes, evaluating precision/recall/F1, and surfacing analytics KPIs. |
+| Industrial Anomaly Detection | [Public repo](https://github.com/withsivram/DATA612-Anomaly-Detection) | DATA612 project using diffusion-style reconstruction to detect and localize product defects on MVTec AD images. |
+| Portfolio Management System | [Public repo](https://github.com/withsivram/Portfolio-Management-System) | ML-assisted stock prediction and portfolio analysis prototype with market-trend visualization and investor-facing workflows. |
+| HeartGuard | [Public repo](https://github.com/withsivram/HeartGuard) | Machine-learning project for heart disease prediction with a user-facing cardiovascular risk analysis workflow. |
+| VisionSpeak | [Public repo](https://github.com/withsivram/Vision-Speak) | Image captioning project that uses AI/deep learning to turn images into descriptive language for accessibility and content workflows. |
+| ExpressWay API | [Public repo](https://github.com/withsivram/ExpressWay-API) | Node.js and Express REST API project focused on scalable request handling and backend application structure. |
 
 ## Working principles
 
@@ -41,7 +49,7 @@ The thesis is simple:
 
 ## Toolbox
 
-`Python` · `FastAPI` · `LLMs` · `MCP` · `Agentic AI` · `Data Pipelines` · `Document AI` · `Healthcare AI` · `GitHub Automation` · `JavaScript` · `HTML/CSS`
+`Python` · `FastAPI` · `LLMs` · `MCP` · `Agentic AI` · `Data Pipelines` · `Document AI` · `Healthcare AI` · `GitHub Automation` · `JavaScript` · `Node.js` · `Express` · `HTML/CSS`
 
 ## Connect
 
