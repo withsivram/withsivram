@@ -46,6 +46,7 @@ The thesis is simple:
 ## Connect
 
 - GitHub: [@withsivram](https://github.com/withsivram)
+- LinkedIn: [Sivram Sahu](https://www.linkedin.com/in/sivramsahu/)
 - Portfolio: [withsivram.github.io](https://withsivram.github.io)
 
-If you're working on practical AI automation, agent infrastructure, or AI-first company operations, I'd be glad to connect.
+For a fuller professional background, visit my LinkedIn profile. If you're working on practical AI automation, agent infrastructure, or AI-first company operations, I'd be glad to connect.
